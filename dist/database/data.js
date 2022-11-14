@@ -1,0 +1,2 @@
+var guessesArray = [];
+export { guessesArray };

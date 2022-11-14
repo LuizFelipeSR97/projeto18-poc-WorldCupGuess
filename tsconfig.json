@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "composite": true,
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "module": "es6",
+        "moduleResolution": "Node"
+    },
+    "ts-node": {
+        "esm": true
+    }
+}
